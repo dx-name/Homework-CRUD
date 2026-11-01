@@ -1,0 +1,11 @@
+.DS_Store
+.env
+/node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+
+# React Router
+/.react-router/
+/build/
